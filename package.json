@@ -8,6 +8,7 @@
     "name": "Luan Eduardo da Costa",
     "email": "luan1346@gmail.com"
   },
+  "homepage": "https://luanedcosta.github.io/react-tailwindcss-glassmorphism/",
   "dependencies": {
     "@craco/craco": "^6.1.0",
     "@tailwindcss/postcss7-compat": "^2.0.2",
@@ -20,6 +21,7 @@
     "@types/react-dom": "^16.9.8",
     "autoprefixer": "9",
     "axios": "^0.21.1",
+    "gh-pages": "^3.1.0",
     "postcss": "7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -30,6 +32,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
