@@ -2,7 +2,9 @@
   "editor.wordWrap": "wordWrapColumn",
   "css.customData": [".vscode/tailwind.json"],
   "cSpell.words": [
+    "automations",
     "browserslist",
+    "codeigniter",
     "compat",
     "craco",
     "glassmorphism",

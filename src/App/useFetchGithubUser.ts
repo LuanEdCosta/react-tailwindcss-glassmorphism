@@ -6,6 +6,7 @@ type ResponseData = Partial<App.GithubUser>
 
 const useFetchGithubUser = (userName: string) => {
   const [userData, setUserData] = useState<ResponseData>({})
+  const [isLoading, setIsLoading] = useState(true)
 
   useLayoutEffect(() => {
     const fetchUser = async () => {
@@ -17,6 +18,8 @@ const useFetchGithubUser = (userName: string) => {
         setUserData(response.data)
       } catch (e) {
         setUserData({})
+      } finally {
+        setIsLoading(false)
       }
     }
 
@@ -24,6 +27,7 @@ const useFetchGithubUser = (userName: string) => {
   }, [userName])
 
   return {
+    isLoading,
     userData,
   }
 }

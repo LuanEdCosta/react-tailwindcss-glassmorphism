@@ -9,7 +9,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: () => ({
-        'app-background': "url('./Assets/Background.png')",
+        'app-background': "url('./Assets/Background.jpg')",
       })
     },
   },
