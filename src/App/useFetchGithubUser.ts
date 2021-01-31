@@ -1,5 +1,6 @@
 import { AxiosResponse } from 'axios'
 import { useLayoutEffect, useState } from 'react'
+
 import { GitHubAPI } from 'src/Services'
 
 type ResponseData = Partial<App.GithubUser>

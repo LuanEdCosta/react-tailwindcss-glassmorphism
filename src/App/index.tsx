@@ -1,4 +1,5 @@
 import React from 'react'
+import { SiJavascript, SiPhp, SiJava, SiPython } from 'react-icons/si'
 import {
   FiCode,
   FiGithub,
@@ -6,7 +7,7 @@ import {
   FiMessageSquare,
   FiUser,
 } from 'react-icons/fi'
-import { SiJavascript, SiPhp, SiJava, SiPython } from 'react-icons/si'
+
 import { KnowledgeLevel } from 'src/Components'
 
 import useFetchGithubUser from './useFetchGithubUser'
