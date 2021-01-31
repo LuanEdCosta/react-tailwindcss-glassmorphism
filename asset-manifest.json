@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-tailwindcss-glassmorphism/static/css/main.8652c911.chunk.css",
-    "main.js": "/react-tailwindcss-glassmorphism/static/js/main.52f948e7.chunk.js",
-    "main.js.map": "/react-tailwindcss-glassmorphism/static/js/main.52f948e7.chunk.js.map",
+    "main.js": "/react-tailwindcss-glassmorphism/static/js/main.3220c1ed.chunk.js",
+    "main.js.map": "/react-tailwindcss-glassmorphism/static/js/main.3220c1ed.chunk.js.map",
     "runtime-main.js": "/react-tailwindcss-glassmorphism/static/js/runtime-main.4257a63f.js",
     "runtime-main.js.map": "/react-tailwindcss-glassmorphism/static/js/runtime-main.4257a63f.js.map",
     "static/js/2.50b2d49d.chunk.js": "/react-tailwindcss-glassmorphism/static/js/2.50b2d49d.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.4257a63f.js",
     "static/js/2.50b2d49d.chunk.js",
     "static/css/main.8652c911.chunk.css",
-    "static/js/main.52f948e7.chunk.js"
+    "static/js/main.3220c1ed.chunk.js"
   ]
 }
