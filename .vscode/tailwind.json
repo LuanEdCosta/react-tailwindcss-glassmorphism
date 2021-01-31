@@ -1,0 +1,6 @@
+{
+  "atDirectives": [
+    { "name": "@tailwind" },
+    { "name": "@layer" }
+  ]
+}

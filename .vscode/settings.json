@@ -1,0 +1,14 @@
+{
+  "editor.wordWrap": "wordWrapColumn",
+  "css.customData": [".vscode/tailwind.json"],
+  "cSpell.words": [
+    "browserslist",
+    "compat",
+    "craco",
+    "glassmorphism",
+    "linkedin",
+    "repos",
+    "tailwind",
+    "tailwindcss"
+  ]
+}

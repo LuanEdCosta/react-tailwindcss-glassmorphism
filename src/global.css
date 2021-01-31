@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html,
+  body,
+  #root {
+    @apply h-full;
+  }
+
+  svg {
+    overflow: initial;
+  }
+}
