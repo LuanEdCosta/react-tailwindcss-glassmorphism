@@ -26,4 +26,4 @@ This project uses Tailwind CSS to design a glassmorphism based portfolio website
 
 ## :man: Author
 
-Luan Eduardo da Costa | luan1346@gmail.com
+Luan Eduardo da Costa | [Follow me on Linkedin](https://www.linkedin.com/in/luaneducosta/)
