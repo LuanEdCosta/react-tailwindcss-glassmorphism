@@ -2,7 +2,7 @@
 
 This project uses Tailwind CSS to design a glassmorphism based portfolio website.
 
-:point_right: [Click here to see in your browser](https://luanedcosta.github.io/react-tailwindcss-glassmorphism/) :point_left:
+:point_right: [CLICK HERE TO SEE IN YOUR BROWSER](https://luanedcosta.github.io/react-tailwindcss-glassmorphism/) :point_left:
 
 <img src="./images/Website.png" alt="An image of the website" />
 
