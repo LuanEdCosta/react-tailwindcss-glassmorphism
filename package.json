@@ -4,10 +4,7 @@
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
-  "author": {
-    "name": "Luan Eduardo da Costa",
-    "email": "luan1346@gmail.com"
-  },
+  "author": "Luan Eduardo da Costa",
   "homepage": "https://luanedcosta.github.io/react-tailwindcss-glassmorphism/",
   "dependencies": {
     "@craco/craco": "^6.1.0",
